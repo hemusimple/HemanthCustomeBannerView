@@ -12,7 +12,7 @@
 add these in app-level gradle file
 	
         dependencies {
-	        implementation 'com.github.hemusimple:HemanthCustomeBannerView:174b864697'
+	        implementation 'com.github.hemusimple:HemanthCustomeBannerView:master'
 	}
 
 After adding those lines 
